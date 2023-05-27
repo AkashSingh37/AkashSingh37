@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Akash Singh
 A passionate Java and Frontend Developer
 - 🌱 I’m currently learning React, Node JS
-- 💬 Ask me about Java, DSA, Frontend Web Devlopment
+- 💬 Ask me about Java, DSA, Frontend Web Devlopment.
 - 📫 How to reach me: https://www.linkedin.com/in/akash-singh-24a7b6179
 <!--
 
