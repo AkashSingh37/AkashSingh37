@@ -3,7 +3,7 @@ A passionate Java and Frontend Developer
 - 🌱 I’m currently learning React, Node JS
 - 💬 Ask me about Java, DSA, Frontend Web Devlopment.
 - 📫 How to reach me: https://www.linkedin.com/in/akash-singh-24a7b6179
-- ⚡ Fun fact: I love playing Badminton.
+- ⚡ Fun fact: I love playing Badminton
 <!--
 
 **AkashSingh37/AkashSingh37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
