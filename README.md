@@ -16,7 +16,7 @@ A passionate Java and Frontend Developer
 
 > Currenlty an engineering student pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
-> I am a person who loves coding and always thriving to exlpore new things.
+> I am a person who loves coding and is always striving to explore new things.
 
 > I love solving **SQL** Problems.
 
