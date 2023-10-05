@@ -26,7 +26,7 @@ A passionate Java and Frontend Developer
 
 
 ##  Connect With Me :
-[![Linkedin Badge](https://img.shields.io/badge/-Akash.Singh-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/akashsingh37/)](https://www.linkedin.com/in/akashsingh37/)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash.Singh-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/akashsingh37/)](www.linkedin.com/in/akashsingh37/)
 [![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/Amansrv_)
 [![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aman1srv)
