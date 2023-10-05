@@ -14,20 +14,19 @@ A passionate Java and Frontend Developer
 **ABOUT ME:**
 > I'm aspiring software engineer with keen interest in **Web Development** and **Cloud Computing**.
 
-> Currenlty an engineering student pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
+> Currently an engineering student pursuing **Btech** in **Computer Science Engineering(SCSE)** From **Vellore Institute of Technology, Bhopal.**
 
 > I am a person who loves coding and is always striving to explore new things.
 
 > I love solving **SQL** Problems.
 
 <!--
-26,106,121
+37,106,121
 -->
-<!--
 
 
 ##  Connect With Me :
-[![Linkedin Badge](https://img.shields.io/badge/-Aman.Srivastava-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/aman-srivastava-43b42920a/)](https://www.linkedin.com/in/amansrv/)
+[![Linkedin Badge](https://img.shields.io/badge/-Akash.Singh-blue?style=flat-square&logo=Linkedin&logoColor=black&link=https://https://www.linkedin.com/in/akashsingh37/)](https://www.linkedin.com/in/amansrv/)
 [![Twitter Badge](https://img.shields.io/badge/-@Aman.Srivastava-1ca0f1?style=&flat-square&labelColor=1ca0f1&logo=twitter&logoColor=black&link=https://twitter.com/AmanSri68355587)](https://twitter.com/Amansrv_)
 [![Medium Badge](https://img.shields.io/badge/-@Aman.Srivastava-03a57a?style=&flat-square&labelColor=black&logo=Medium&link=https://medium.com/@amansrv/)](https://medium.com/@amansrv)
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/aman1srv)
@@ -35,6 +34,7 @@ A passionate Java and Frontend Developer
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/amansrv_/)](https://instagram.com/amansrv_)
 [![Gmail Badge](https://img.shields.io/badge/-srivastavaaman237@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=black&link=mailto:srivastavaaman237@gmail.com)](mailto:srivastavaaman237@gmail.com)
 
+<!--
 
 ## Coding Account :
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/##########/)
